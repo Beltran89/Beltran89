@@ -7,7 +7,7 @@
 Here you can find small code that I will try for my learning (and I hope for yours) in different languages ​​and technologies.
 You will also find the codes of the courses I take on different platforms. 👋
 
-### <p style="color:red">I hope we can take advantage of it to make this world easier among our entire community of developers. <strong>\#ILikeCoding</strong> </p>
+### <p scolor="red">I hope we can take advantage of it to make this world easier among our entire community of developers. <strong>\#ILikeCoding</strong> </p>
 
 <!--
 **Beltran89/Beltran89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
