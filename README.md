@@ -1,4 +1,7 @@
-![](https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif)
+<!--![](https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif)-->
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif">
+</p>
 
 ## Hi there 👋
 
