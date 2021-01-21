@@ -1,6 +1,6 @@
 <!--![](https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif)-->
 <p align="center">
-  <img width="600" height="600" src="https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif" >
+  <img width="1024" height="600" src="https://github.com/Beltran89/Beltran89/blob/main/image_Matrix.gif" >
 </p>
 
 ## Hi there 👋
