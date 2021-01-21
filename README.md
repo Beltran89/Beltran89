@@ -1,6 +1,6 @@
-                                               ![](https://github.com/Beltran89/Beltran89/blob/main/imageBinary.gif)
+![](https://github.com/Beltran89/Beltran89/blob/main/imageBinary.gif)
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Beltran89/Beltran89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
