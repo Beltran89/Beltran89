@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Beltran89 github stats](https://github-readme-stats.vercel.app/api?username=Beltran89&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+<br>
 ![Beltran89 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beltran89&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
