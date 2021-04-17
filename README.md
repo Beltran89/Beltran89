@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # 42_Campus
 
-42 Madrid Telefonica Students
+42 Madrid Telefonica Student
 
 [![rbeltran's 42 stats](https://badge42.herokuapp.com/api/stats/rbeltran?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
