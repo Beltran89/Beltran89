@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 42_Campus
+
+42 Madrid Telefonica Students
+
+[![rbeltran's 42 stats](https://badge42.herokuapp.com/api/stats/rbeltran?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+[![rbeltran's 42Project Score](https://badge42.herokuapp.com/api/project/rbeltran/libft)](https://github.com/JaeSeoKim/badge42)
+
+
 ![Beltran89 github stats](https://github-readme-stats.vercel.app/api?username=Beltran89&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 <br>
 ![Beltran89 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beltran89&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
