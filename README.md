@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![rbeltran's 42 stats](https://badge42.herokuapp.com/api/stats/rbeltran?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-[![rbeltran's 42Project Score](https://badge42.herokuapp.com/api/project/rbeltran/Libft)](https://github.com/JaeSeoKim/badge42)
+## LIBFT ---> [![rbeltran's 42Project Score](https://badge42.herokuapp.com/api/project/rbeltran/Libft)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
